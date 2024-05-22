@@ -1,4 +1,4 @@
-# Sales and Business Report with Microsoft Power BI 📊💼📉
+# Sales & Business Report with Microsoft Power BI 📊💼📉
 
-![The Office GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![The Office GIF](gifs.com/gif/let-s-get-the-party-started-dwight-and-michael-dance-2R6PGM)
 
