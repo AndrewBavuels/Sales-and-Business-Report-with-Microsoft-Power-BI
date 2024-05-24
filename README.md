@@ -1,18 +1,21 @@
-# **Sales and Business Report with Microsoft Power BI 📊💼📈** 
+# Sales and Business Report with Microsoft Power BI 📊💼📈 
 
-This project explores the components of Business Intelligence flow and practical uses of some DAX (Data Analysis Expressions) in Microsoft Power BI:
-**https://www.linkedin.com/feed/update/urn:li:activity:7199060482014539776?utm_source=share&utm_medium=member_desktop**
+This repository contains the ETL (Extract, Transform, Load) process for analyzing data from the "Dunder Mifflin Paper Company.xlsx" file using Power BI. The Excel file has been pre-processed to include a "COGS" (Cost of Goods Sold) column and updated branch names from the series "The Office".
 
-<!-- ## 1. Project description 👇
+![Let's Get the Party Started](https://media.giphy.com/media/i79P9wUfnmPyo/giphy.gif)
 
-### **_Development of KPI Dashboards and Reporting System, using Power Query, Power Pivot (DAX), and NLP tools._**
-
-For this project, I used a "Spotify App Reviews" dataset from [Kaggle](https://www.kaggle.com/datasets/mfaaris/spotify-app-reviews-2022). After being processed, the output was explored and saved in Tableau Public. -->
-
-## BI Flow and Components
+## 1. Project description 👇
+This project explores the components of Business Intelligence (BI) flow and practical uses of some DAX (Data Analysis Expressions) in Microsoft Power BI, as follows: 
 
 ### I. Power Query for ETL
 Data extraction, source consolidation, cleaning, and transformation.
+
+### Extract
+1. Open Power BI Desktop.
+2. Select "Get Data" and choose "Excel".
+3. Locate and select "Dunder Mifflin Paper Company.xlsx".
+4. Choose the relevant sheets (e.g., "SalesData").
+
 <!-- **Example Preview**
 #### Img 1 -->
 
@@ -22,7 +25,26 @@ Data extraction, source consolidation, cleaning, and transformation.
 ![img_5.1](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/5.1.png)
 ![img_5.2](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/5.2.png)
 
+### Transform
+1. Power Query Editor opens automatically after data selection.
+2. Ensure the "COGS" column is present and branch names are updated.
+3. Perform necessary transformations:
+   - Rename columns for clarity.
+   - Change data types (e.g., convert "Sale Date" to Date type).
+   - Remove unnecessary columns.
+   - Create calculated columns (e.g., Profit Margin: `[SalePrice] - [COGS]`).
+   - Filter data as required (e.g., by date range).
 
+
+### Load
+1. Apply changes and close Power Query Editor.
+2. Load transformed data into the Power BI data model.
+3. Establish relationships between tables if multiple tables are used.
+4. Create visualizations:
+   - Bar charts showing sales by branch.
+   - Line charts for monthly sales trends.
+   - Tables displaying profit margins.
+   
 ### II: Power Pivot (DAX) for Data Modeling
 Relationships, indicators, optimization.
 
@@ -58,4 +80,39 @@ Data visualization, reports, dashboards, storytelling.
 
 - [DAX Formatter](https://www.daxformatter.com/): For formatting Data Analysis Expressions (DAX) queries.
 
-![Let's Get the Party Starte](https://media.giphy.com/media/i79P9wUfnmPyo/giphy.gif)
+
+
+
+
+
+
+
+## DAX (Data Analysis Expressions)
+This project also includes practical uses of DAX in Power BI to create calculated columns and measures for enhanced data analysis.
+
+## Visualizations
+- **Sales by Branch**: Bar chart showing sales for each branch.
+- **Monthly Sales Trends**: Line chart depicting sales trends over time.
+- **Profit Margins**: Table with calculated profit margins.
+
+## How to Use
+1. Download the repository and open the Power BI file.
+2. Ensure the "Dunder Mifflin Paper Company.xlsx" file is in the correct location.
+3. Refresh the data in Power BI to see updated analyses and visualizations.
+
+## Requirements
+- Power BI Desktop
+- Excel file: "Dunder Mifflin Paper Company.xlsx"
+
+This project explores the components of Business Intelligence flow and practical uses of some DAX (Data Analysis Expressions) in Microsoft Power BI:
+**https://www.linkedin.com/feed/update/urn:li:activity:7199060482014539776?utm_source=share&utm_medium=member_desktop**
+
+<!-- ## 1. Project description 👇
+
+### **_Development of KPI Dashboards and Reporting System, using Power Query, Power Pivot (DAX), and NLP tools._**
+
+For this project, I used a "Spotify App Reviews" dataset from [Kaggle](https://www.kaggle.com/datasets/mfaaris/spotify-app-reviews-2022). After being processed, the output was explored and saved in Tableau Public. -->
+
+
+
+
