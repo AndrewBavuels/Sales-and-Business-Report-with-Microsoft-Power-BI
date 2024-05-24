@@ -18,7 +18,7 @@ Data extraction, source consolidation, cleaning, and transformation.
 
 <!-- **Example Preview**
 #### Img 1 -->
-
+![img_1](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/1.png)
 ![img_2](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/2.png)
 
 ### Transform
