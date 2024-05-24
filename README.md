@@ -21,7 +21,7 @@ Data extraction, source consolidation, cleaning, and transformation.
 ![img_4](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/4.png)
 ![img_5.1](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/5.1.png)
 ![img_5.2](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/5.2.png)
-![img_6](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/6.png)
+
 
 ### II: Power Pivot (DAX) for Data Modeling
 Relationships, indicators, optimization.
@@ -36,6 +36,8 @@ It is similar to Excel formulas but is specifically design for use in Power BI &
 2. **Customer Behavior Analysis:** Segment customers based on purchase patterns. **DAX Functions:** COUNTROWS, FILTER, RELATED, RANKX, SWITCH
  
 3. **Time Intelligence:** Analyze YTD sales, MoM growth, and YoY performance. **DAX Functions:** TOTALYTD, TOTALMTD, SAMEPERIODLASTYEAR, DATESYTD, DATEADD
+
+![img_6](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/6.png)
  
 4. **Financial Reporting:** Calculate margins, ROI, and other financial metrics. **DAX Functions:** DIVIDE, CALCULATE, FILTER, ALL, RELATEDTABLE
 
