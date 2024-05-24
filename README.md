@@ -20,7 +20,11 @@ Data extraction, source consolidation, cleaning, and transformation.
 #### Img 1 -->
 ![img_1](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/1.png)
 
+#### Coming up next, we will see the dimension table "State_Branches" has no relation to the fact one "Sales"
+
 ![img_2](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/2.png)
+
+#### So, we need to do some transforming work in Power Query:
 
 ### Transform
 1. Power Query Editor opens automatically after data selection.
