@@ -19,6 +19,7 @@ Data extraction, source consolidation, cleaning, and transformation.
 <!-- **Example Preview**
 #### Img 1 -->
 ![img_1](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/1.png)
+
 ![img_2](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/2.png)
 
 ### Transform
@@ -32,6 +33,7 @@ Data extraction, source consolidation, cleaning, and transformation.
    - Filter data as required (e.g., by date range).
 
 ![img_3](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/3.png)
+
 ![img_4](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/4.png)
 
 ### Load
@@ -44,6 +46,7 @@ Data extraction, source consolidation, cleaning, and transformation.
    - Tables displaying profit margins.
 
 ![img_5.1](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/5.1.png)
+
 ![img_5.2](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/5.2.png)
 
 ### II: Power Pivot (DAX) for Data Modeling
