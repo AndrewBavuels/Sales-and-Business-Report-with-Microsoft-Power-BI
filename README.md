@@ -35,6 +35,10 @@ Data extraction, source consolidation, cleaning, and transformation.
 
 ![img_4](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/4.png)
 
+3. Check in the **Table View** the fact table "Sales" and determine the measures we will create from:
+
+![img_5.1](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/5.1.png)
+
 ### Load
 1. Apply changes and close Power Query Editor.
 2. Load transformed data into the Power BI data model.
@@ -44,9 +48,21 @@ Data extraction, source consolidation, cleaning, and transformation.
    - Line charts for monthly sales trends.
    - Tables displaying profit margins.
 
-![img_5.1](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/5.1.png)
+
 
 ![img_5.2](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/5.2.png)
+
+### Summary
+The ETL process does not run continuously but at key moments when needed:
+
+- Integrate new data sources.
+- Update existing data.
+- Develop new analyses or reports.
+- Modify the data structure.
+- Perform data maintenance or cleaning.
+
+The frequency and exact timing of the ETL execution will depend on the specific needs of your data analysis and the nature of your data sources.
+
 
 ### II: Power Pivot (DAX) for Data Modeling
 Relationships, indicators, optimization.
@@ -119,3 +135,20 @@ For this project, I used a "Spotify App Reviews" dataset from [Kaggle](https://w
 
 
 
+### Is DAX part of the ETL process?
+
+DAX (Data Analysis Expressions) is not inherently part of the ETL (Extract, Transform, Load) process. However, DAX is commonly used in conjunction with ETL in tools like Microsoft Power BI to perform data analysis once the data has been extracted, transformed, and loaded into the data model.
+
+### Role of DAX in the ETL Process:
+
+1. **Post-data load**: Once the data has been transformed and loaded into the data model, DAX expressions are used to perform calculations and analysis on this data. This includes creating measures, calculated columns, and calculated tables that provide insights and metrics relevant for data analysis.
+
+2. **Calculation of derived data**: DAX is used to calculate derived values or specific metrics needed for reports and analysis. For example, calculating profit margins, growth rates, weighted averages, etc.
+
+3. **Creating Key Performance Indicators (KPIs)**: DAX allows defining KPIs that help monitor the performance of a business or process. These KPIs can be based on calculated measures using DAX expressions to calculate key values.
+
+4. **Data filtering and segmentation**: DAX is used to filter and segment data based on specific criteria, allowing for more detailed and focused data analysis.
+
+5. **Integration with ETL**: While DAX is not part of the ETL process itself, transformations performed during the ETL process can influence the calculations and analysis done with DAX. For example, calculated columns created during transformation can be subsequently used in DAX expressions.
+
+In summary, while ETL prepares the data for analysis, DAX is used to perform advanced analysis and calculations on this data once it has been loaded into the data model. Together, ETL and DAX are part of an integrated data analysis process in tools like Power BI.
