@@ -1,13 +1,13 @@
 # **Sales and Business Report with Microsoft Power BI 📊💼📈** 
 
-This project explores the components during the flow of Business Intelligence flow. And practical uses of some DAX (Data Analysis Expressions) in Microsoft Power BI:
+This project explores the components of Business Intelligence flow and practical uses of some DAX (Data Analysis Expressions) in Microsoft Power BI:
 **https://www.linkedin.com/feed/update/urn:li:activity:7199060482014539776?utm_source=share&utm_medium=member_desktop**
 
 <!-- ## 1. Project description 👇
 
 ### **_Development of KPI Dashboards and Reporting System, using Power Query, Power Pivot (DAX), and NLP tools._**
 
-For this project I used a "Spotify App Reviews" dataset from [Kaggle](https://www.kaggle.com/datasets/mfaaris/spotify-app-reviews-2022). After being processed, the output was explored and saved in Tableau Public. -->
+For this project, I used a "Spotify App Reviews" dataset from [Kaggle](https://www.kaggle.com/datasets/mfaaris/spotify-app-reviews-2022). After being processed, the output was explored and saved in Tableau Public. -->
 
 ## BI Flow and Components
 
@@ -26,9 +26,9 @@ Data extraction, source consolidation, cleaning, and transformation.
 ### II: Power Pivot (DAX) for Data Modeling
 Relationships, indicators, optimization.
 
-DAX is a formula language that allows users to Create custom calculations & expressions in Power BI.
+DAX is a formula language that allows users to create custom calculations & expressions in Power BI.
 
-It is similar to Excel formulas but is specifically design for use in Power BI & other Microsoft BI tools.
+It is similar to Excel formulas but is specifically designed for use in Power BI & other Microsoft BI tools.
 
 
 1. **Sales Metrics:** Compute total revenue, average order value, and sales growth. **DAX Functions:** SUM, AVERAGE, CALCULATE, YEAR-OVER-YEAR GROWTH
@@ -37,6 +37,7 @@ It is similar to Excel formulas but is specifically design for use in Power BI &
  
 3. **Time Intelligence:** Analyze YTD sales, MoM growth, and YoY performance. **DAX Functions:** TOTALYTD, TOTALMTD, SAMEPERIODLASTYEAR, DATESYTD, DATEADD
 
+#### CALENDARAUTO() => DAX function for Time Intelligence
 ![img_6](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/6.png)
  
 4. **Financial Reporting:** Calculate margins, ROI, and other financial metrics. **DAX Functions:** DIVIDE, CALCULATE, FILTER, ALL, RELATEDTABLE
