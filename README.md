@@ -14,7 +14,7 @@ Data extraction, source consolidation, cleaning, and transformation.
 1. Open Power BI Desktop.
 2. Select "Get Data" and choose "Excel".
 3. Locate and select "Dunder Mifflin Paper Company.xlsx".
-4. Choose the relevant sheets (e.g., "SalesData").
+4. Choose the table format sheets (for this case, "Sales", "SKU" and "State_Branches").
 
 <!-- **Example Preview**
 #### Img 1 -->
