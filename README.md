@@ -27,16 +27,11 @@ Data extraction, source consolidation, cleaning, and transformation.
 #### So, we need to do some transforming work in Power Query:
 
 ### Transform
-1. Power Query Editor opens automatically after data selection.
-2. Ensure the "COGS" column is present and branch names are updated.
-3. Perform necessary transformations:
-   - Rename columns for clarity.
-   - Change data types (e.g., convert "Sale Date" to Date type).
-   - Remove unnecessary columns.
-   - Create calculated columns (e.g., Profit Margin: `[SalePrice] - [COGS]`).
-   - Filter data as required (e.g., by date range).
+1. Rename columns for State_Branches by **using first rows as headers:**
 
 ![img_3](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/3.png)
+
+2. Check the **Model View** if the relation to Sales was created:
 
 ![img_4](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/4.png)
 
