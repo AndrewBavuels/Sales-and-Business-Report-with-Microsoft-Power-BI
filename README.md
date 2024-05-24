@@ -37,7 +37,7 @@ It is similar to Excel formulas but is specifically designed for use in Power BI
  
 3. **Time Intelligence:** Analyze YTD sales, MoM growth, and YoY performance. **DAX Functions:** TOTALYTD, TOTALMTD, SAMEPERIODLASTYEAR, DATESYTD, DATEADD
 
-#### CALENDARAUTO() => DAX function for Time Intelligence
+- CALENDARAUTO() => DAX function for Time Intelligence
 ![img_6](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/6.png)
  
 4. **Financial Reporting:** Calculate margins, ROI, and other financial metrics. **DAX Functions:** DIVIDE, CALCULATE, FILTER, ALL, RELATEDTABLE
