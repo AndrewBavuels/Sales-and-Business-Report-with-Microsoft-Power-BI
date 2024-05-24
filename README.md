@@ -33,8 +33,6 @@ Data extraction, source consolidation, cleaning, and transformation.
 
 ![img_3](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/3.png)
 ![img_4](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/4.png)
-![img_5.1](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/5.1.png)
-![img_5.2](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/5.2.png)
 
 ### Load
 1. Apply changes and close Power Query Editor.
@@ -44,7 +42,10 @@ Data extraction, source consolidation, cleaning, and transformation.
    - Bar charts showing sales by branch.
    - Line charts for monthly sales trends.
    - Tables displaying profit margins.
-   
+
+![img_5.1](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/5.1.png)
+![img_5.2](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/5.2.png)
+
 ### II: Power Pivot (DAX) for Data Modeling
 Relationships, indicators, optimization.
 
