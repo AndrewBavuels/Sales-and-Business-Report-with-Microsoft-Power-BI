@@ -154,3 +154,7 @@ DAX (Data Analysis Expressions) is not inherently part of the ETL (Extract, Tran
 5. **Integration with ETL**: While DAX is not part of the ETL process itself, transformations performed during the ETL process can influence the calculations and analysis done with DAX. For example, calculated columns created during transformation can be subsequently used in DAX expressions.
 
 In summary, while ETL prepares the data for analysis, DAX is used to perform advanced analysis and calculations on this data once it has been loaded into the data model. Together, ETL and DAX are part of an integrated data analysis process in tools like Power BI.
+
+### Functional architecture design:
+
+![DM_pipeline](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/architecture/Dunder%20Mifflin%20data%20pipeline.png)
