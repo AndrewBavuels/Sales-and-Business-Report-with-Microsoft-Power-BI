@@ -8,14 +8,18 @@ Before continuing into this repository, I was already working in Power BI until 
 
 ![img_0](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/0.png)
 
+- The first thing I wanted to know was if sales were correlated with the company's profits. In the scatterplot we can see that this is not the case. 
+
+- We could think that the more we sell, the more profits we will have; However, we notice that there are losses in this graph.
+
+As data professionals, we should not assume anything and take our conclusions for granted. Next, I will show you the components of my project:
+
+## 1. Project description 👇
+This project explores the components of Business Intelligence (BI) flow and practical uses of some DAX (Data Analysis Expressions) in Microsoft Power BI, as follows:
+
 ### Functional architecture design:
 
 ![DM_pipeline](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/architecture/Dunder%20Mifflin%20data%20pipeline.png)
-
-
-
-## 1. Project description 👇
-This project explores the components of Business Intelligence (BI) flow and practical uses of some DAX (Data Analysis Expressions) in Microsoft Power BI, as follows: 
 
 ### I. Power Query for ETL
 Data extraction, source consolidation, cleaning, and transformation.
