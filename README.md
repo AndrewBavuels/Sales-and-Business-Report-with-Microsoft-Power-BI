@@ -17,9 +17,10 @@ As data professionals, we should not assume anything and take our conclusions fo
 ## 1. Project description 👇
 ### _Business Analytics: EDA with Python, ETL & Power BI._
 
-- This project explores the components of Business Intelligence (BI) flow and practical uses of some DAX (Data Analysis Expressions) in Microsoft Power BI.
+The goal is demonstrating how Python and Power BI merge together when exploring the components of Business Intelligence (BI) flow.
 
-- The project aims to demonstrate how Python and Power BI merge together in a BI workflow, in handling data outliers...
+- This includes practical uses of some DAX (Data Analysis Expressions) in Microsoft Power BI.
+
 
 - The focus is on performing Exploratory Data Analysis (EDA) using Python to do the data cleaning of outliers in the Fact table... 
 
