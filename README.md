@@ -15,6 +15,9 @@ Before continuing into this repository, I was already working in Power BI until 
 As data professionals, we should not assume anything and take our conclusions for granted. Next, I will show you the components of my project:
 
 ## 1. Project description 👇
+### _Business Analytics: EDA with Python, ETL & Power BI._
+
+
 This project explores the components of Business Intelligence (BI) flow and practical uses of some DAX (Data Analysis Expressions) in Microsoft Power BI, as follows:
 
 ### Functional architecture design:
