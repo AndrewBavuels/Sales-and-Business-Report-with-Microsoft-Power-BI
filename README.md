@@ -151,23 +151,3 @@ This project also includes practical uses of DAX in Power BI to create calculate
 
 This project explores the components of Business Intelligence flow and practical uses of some DAX (Data Analysis Expressions) in Microsoft Power BI:
 **https://www.linkedin.com/feed/update/urn:li:activity:7199060482014539776?utm_source=share&utm_medium=member_desktop**
-
-
-
-### Is DAX part of the ETL process?
-
-DAX (Data Analysis Expressions) is not inherently part of the ETL (Extract, Transform, Load) process. However, DAX is commonly used in conjunction with ETL in tools like Microsoft Power BI to perform data analysis once the data has been extracted, transformed, and loaded into the data model.
-
-### Role of DAX in the ETL Process:
-
-1. **Post-data load**: Once the data has been transformed and loaded into the data model, DAX expressions are used to perform calculations and analysis on this data. This includes creating measures, calculated columns, and calculated tables that provide insights and metrics relevant for data analysis.
-
-2. **Calculation of derived data**: DAX is used to calculate derived values or specific metrics needed for reports and analysis. For example, calculating profit margins, growth rates, weighted averages, etc.
-
-3. **Creating Key Performance Indicators (KPIs)**: DAX allows defining KPIs that help monitor the performance of a business or process. These KPIs can be based on calculated measures using DAX expressions to calculate key values.
-
-4. **Data filtering and segmentation**: DAX is used to filter and segment data based on specific criteria, allowing for more detailed and focused data analysis.
-
-5. **Integration with ETL**: While DAX is not part of the ETL process itself, transformations performed during the ETL process can influence the calculations and analysis done with DAX. For example, calculated columns created during transformation can be subsequently used in DAX expressions.
-
-In summary, while ETL prepares the data for analysis, DAX is used to perform advanced analysis and calculations on this data once it has been loaded into the data model. Together, ETL and DAX are part of an integrated data analysis process in tools like Power BI.
