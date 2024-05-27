@@ -1,14 +1,16 @@
 # Sales and Business Report with Microsoft Power BI 📊💼📈 
 
+This repository contains the ETL (Extract, Transform, Load) process for analyzing data from the "Dunder Mifflin Paper Company.xlsx" file using Power BI. The Excel file has been pre-processed to include a "COGS" (Cost of Goods Sold) column and updated branch names from the series "The Office".
+
+![Let's Get the Party Started](https://media.giphy.com/media/i79P9wUfnmPyo/giphy.gif)
+
 ![img_0](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/0.png)
 
 ### Functional architecture design:
 
 ![DM_pipeline](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/architecture/Dunder%20Mifflin%20data%20pipeline.png)
 
-This repository contains the ETL (Extract, Transform, Load) process for analyzing data from the "Dunder Mifflin Paper Company.xlsx" file using Power BI. The Excel file has been pre-processed to include a "COGS" (Cost of Goods Sold) column and updated branch names from the series "The Office".
 
-![Let's Get the Party Started](https://media.giphy.com/media/i79P9wUfnmPyo/giphy.gif)
 
 ## 1. Project description 👇
 This project explores the components of Business Intelligence (BI) flow and practical uses of some DAX (Data Analysis Expressions) in Microsoft Power BI, as follows: 
