@@ -17,8 +17,17 @@ As data professionals, we should not assume anything and take our conclusions fo
 ## 1. Project description 👇
 ### _Business Analytics: EDA with Python, ETL & Power BI._
 
+- This project explores the components of Business Intelligence (BI) flow and practical uses of some DAX (Data Analysis Expressions) in Microsoft Power BI.
 
-This project explores the components of Business Intelligence (BI) flow and practical uses of some DAX (Data Analysis Expressions) in Microsoft Power BI, as follows:
+- The project aims to demonstrate how Python and Power BI merge together in a BI workflow, in handling data outliers...
+
+- The focus is on performing Exploratory Data Analysis (EDA) using Python to do the data cleaning of outliers in the Fact table... 
+
+- Following the EDA, the project employs ETL (Extract, Transform, Load) processes to prepare the data for advanced analysis and interactive visualizations in Power BI. 
+
+- DAX is perfomed to create business metrics and KPIs, enabling data-driven decision-making...
+
+
 
 ### Functional architecture design:
 
@@ -142,13 +151,6 @@ This project also includes practical uses of DAX in Power BI to create calculate
 
 This project explores the components of Business Intelligence flow and practical uses of some DAX (Data Analysis Expressions) in Microsoft Power BI:
 **https://www.linkedin.com/feed/update/urn:li:activity:7199060482014539776?utm_source=share&utm_medium=member_desktop**
-
-<!-- ## 1. Project description 👇
-
-### **_Development of KPI Dashboards and Reporting System, using Power Query, Power Pivot (DAX), and NLP tools._**
-
-For this project, I used a "Spotify App Reviews" dataset from [Kaggle](https://www.kaggle.com/datasets/mfaaris/spotify-app-reviews-2022). After being processed, the output was explored and saved in Tableau Public. -->
-
 
 
 
