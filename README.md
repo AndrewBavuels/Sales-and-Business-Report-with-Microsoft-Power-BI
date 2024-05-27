@@ -4,6 +4,8 @@ This repository contains the ETL (Extract, Transform, Load) process for analyzin
 
 ![Let's Get the Party Started](https://media.giphy.com/media/i79P9wUfnmPyo/giphy.gif)
 
+Before continuing into this repository, I was already working in Power BI until reaching the point where it can be seen in the following image:
+
 ![img_0](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/0.png)
 
 ### Functional architecture design:
