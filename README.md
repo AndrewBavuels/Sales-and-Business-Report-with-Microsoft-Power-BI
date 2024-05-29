@@ -8,7 +8,7 @@ Before continuing into this repository, I was already working in Power BI until 
 
 ![img_0](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/0.png)
 
-- The first thing I wanted to know was if sales were correlated with the company's profits. In the scatterplot we can see that this is not the case. 
+- The first thing I wanted to know was if sales were correlated with the company's profits. In the scatterplot, we can see that this is not the case. 
 
 - We could think that the more we sell, the more profits we will have; However, we notice that there are losses in this graph.
 
@@ -76,14 +76,13 @@ Data extraction, source consolidation, cleaning, and transformation.
 
 ![img_5.2](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/5.2.png)
 
-### Summary
-The ETL process does not run continuously but at key moments when needed:
+The ETL execution will depend on the specific needs of your data analysis. Mostly, those key moments happen when:
 
-- Integrate new data sources.
-- Update existing data.
-- Develop new analyses or reports.
-- Modify the data structure.
-- Perform data maintenance or cleaning.
+- Integrating new data sources.
+- Updating existing data.
+- Developing new analyses or reports.
+- Modifying the data structure.
+- Performing data maintenance or cleaning.
 
 The frequency and exact timing of the ETL execution will depend on the specific needs of your data analysis and the nature of your data sources.
 
