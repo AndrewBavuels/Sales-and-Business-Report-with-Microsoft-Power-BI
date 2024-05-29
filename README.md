@@ -31,7 +31,11 @@ The goal is demonstrating how Python and Power BI merge together when exploring 
 
 ![DM_pipeline](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/architecture/Dunder%20Mifflin%20data%20pipeline.png)
 
-### I. Power Query for ETL
+### I. Exploratory Data Analysis (EDA)
+
+Here is a little extract from Jupyter Notebook, using Python and their libraries (described down in the Technology Stack section):
+
+### II. Power Query for ETL
 Data extraction, source consolidation, cleaning, and transformation.
 
 ### Extract
@@ -40,8 +44,6 @@ Data extraction, source consolidation, cleaning, and transformation.
 3. Locate and select "Dunder Mifflin Paper Company.xlsx".
 4. Choose the table format sheets (for this case, "Sales", "SKU" and "State_Branches").
 
-<!-- **Example Preview**
-#### Img 1 -->
 ![img_1](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/1.png)
 
 #### Coming up next, we will see the dimension table "State_Branches" has no relation to the fact one "Sales"
@@ -84,7 +86,7 @@ The ETL execution will depend on the specific needs of your data analysis. Mostl
 - Modifying the data structure.
 - Performing data maintenance or cleaning.
 
-### II: Power Pivot (DAX) for Data Modeling
+### III: Power Pivot (DAX) for Data Modeling
 Relationships, indicators, optimization.
 
 DAX is a formula language that allows users to create custom calculations & expressions in Power BI.
@@ -106,9 +108,9 @@ It is similar to Excel formulas but is specifically designed for use in Power BI
 
 5. **Product Performance:** Evaluate sales by category and profitability. **DAX Functions:** CALCULATE, FILTER, RELATEDTABLE, TOPN, RANKX
 
-### III: Reporting
+### IV: Reporting
 Data visualization, reports, dashboards, storytelling.
-<!-- **Example Preview** -->
+
 
 ## **2. Technology stack 💻**
 
