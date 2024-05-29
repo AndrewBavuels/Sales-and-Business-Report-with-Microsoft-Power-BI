@@ -115,6 +115,24 @@ It is similar to Excel formulas but is specifically designed for use in Power BI
 ### IV: Reporting
 Data visualization, reports, dashboards, storytelling.
 
+### The 5 Whys
+
+1. **Why are sales and profit not correlated?**
+   Because more sales do not necessarily mean more profit.
+
+2. **Why do more sales not necessarily mean more profit?**
+   Because some sales result in losses.
+
+3. **Why do some sales result in losses?**
+   Because their costs are higher than the revenue generated from those sales.
+
+4. **Why are their costs higher than the revenue?**
+   Because in some branches, operational costs are higher.
+
+5. **Why are their operational costs higher?**
+   Maybe it has to do with some products that are complex to sell.
+
+
 
 ## **2. Technology stack 💻**
 
