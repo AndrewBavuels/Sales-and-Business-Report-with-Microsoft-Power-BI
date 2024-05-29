@@ -84,9 +84,6 @@ The ETL execution will depend on the specific needs of your data analysis. Mostl
 - Modifying the data structure.
 - Performing data maintenance or cleaning.
 
-The frequency and exact timing of the ETL execution will depend on the specific needs of your data analysis and the nature of your data sources.
-
-
 ### II: Power Pivot (DAX) for Data Modeling
 Relationships, indicators, optimization.
 
