@@ -35,7 +35,7 @@ The goal is demonstrating how Python and Power BI merge together when exploring 
 
 Here is a little extract from Jupyter Notebook, using Python and their libraries (described down in the Technology Stack section).
 
-https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/EDA%20with%20Python.png
+![EDA_with_Python](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/EDA%20with%20Python.png)
 
 Remember when I first detected the **outliers** in the Power Bi Visualization? Well, this is the part and I am performing their handling per each **customer segment**
 
