@@ -33,7 +33,11 @@ The goal is demonstrating how Python and Power BI merge together when exploring 
 
 ### I. Exploratory Data Analysis (EDA)
 
-Here is a little extract from Jupyter Notebook, using Python and their libraries (described down in the Technology Stack section):
+Here is a little extract from Jupyter Notebook, using Python and their libraries (described down in the Technology Stack section).
+
+https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/EDA%20with%20Python.png
+
+Remember when I first detected the **outliers** in the Power Bi Visualization? Well, this is the part and I am performing their handling per each **customer segment**
 
 ### II. Power Query for ETL
 Data extraction, source consolidation, cleaning, and transformation.
