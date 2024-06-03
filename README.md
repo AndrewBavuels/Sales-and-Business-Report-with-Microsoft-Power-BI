@@ -2,7 +2,7 @@
 
 ![Let's Get the Party Started](https://media.giphy.com/media/i79P9wUfnmPyo/giphy.gif)
 
-This repository contains the ETL (Extract, Transform, Load) process for analyzing data from "Dunder Mifflin Paper Company" **sales.xlsx file** using Power BI. The Excel file has been pre-processed to include a "COGS" (Cost of Goods Sold) column and updated branch names from the series "The Office".
+This repository contains the ETL (Extract, Transform, Load) process for analyzing data from the "Dunder Mifflin Paper Company" **sales.xlsx file** using Power BI. The Excel file has been pre-processed to include a "COGS" (Cost of Goods Sold) column and updated branch names from the series "The Office".
 
 Before continuing into this repository, I was already working in Power BI until reaching the point where it can be seen in the following image:
 
@@ -118,6 +118,8 @@ It is similar to Excel formulas but is specifically designed for use in Power BI
 Data visualization, reports, dashboards, storytelling.
 
 ### The 5 Whys
+
+![Five_Whys](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/Five_Whys.png)
 
 1. **Why are sales and profit not correlated?**
    Because more sales do not necessarily mean more profit.
