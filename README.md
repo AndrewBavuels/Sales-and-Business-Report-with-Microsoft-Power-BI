@@ -2,7 +2,7 @@
 
 ![Let's Get the Party Started](https://media.giphy.com/media/i79P9wUfnmPyo/giphy.gif)
 
-This repository contains the ETL (Extract, Transform, Load) process for analyzing data from the "Dunder Mifflin Paper Company.xlsx" file using Power BI. The Excel file has been pre-processed to include a "COGS" (Cost of Goods Sold) column and updated branch names from the series "The Office".
+This repository contains the ETL (Extract, Transform, Load) process for analyzing data from "Dunder Mifflin Paper Company" **sales.xlsx file** using Power BI. The Excel file has been pre-processed to include a "COGS" (Cost of Goods Sold) column and updated branch names from the series "The Office".
 
 Before continuing into this repository, I was already working in Power BI until reaching the point where it can be seen in the following image:
 
