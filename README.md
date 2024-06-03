@@ -147,3 +147,5 @@ Data visualization, reports, dashboards, storytelling.
 ### Extensions and Other Tools:
 
 - [DAX Formatter](https://www.daxformatter.com/): For formatting Data Analysis Expressions (DAX) queries.
+
+![DAX_Formatter](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/DAX%20Formatter.png)
