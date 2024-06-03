@@ -96,16 +96,20 @@ Relationships, indicators, optimization.
 
 DAX is a formula language that allows users to create custom calculations & expressions in Power BI.
 
-It is similar to Excel formulas but is specifically designed for use in Power BI & other Microsoft BI tools.
+It is similar to Excel formulas but is specifically designed for use in Power BI & other Microsoft BI tools. **Some of them used were:**
 
 
-1. **Sales Metrics:** Compute total revenue, average order value, and sales growth. **DAX Functions:** SUM, AVERAGE, CALCULATE, YEAR-OVER-YEAR GROWTH
- 
-2. **Customer Behavior Analysis:** Segment customers based on purchase patterns. **DAX Functions:** COUNTROWS, FILTER, RELATED, RANKX, SWITCH
- 
-3. **Time Intelligence:** Analyze YTD sales, MoM growth, and YoY performance. **DAX Functions:** TOTALYTD, TOTALMTD, SAMEPERIODLASTYEAR, DATESYTD, DATEADD
+1. **Sales Measures:**
+     - Total Sales = SUM ( FACT_Sales[Sales] )
 
-- CALENDARAUTO() => DAX function for Time Intelligence
+     - Sales Ranking = RANKX ( ALL ( 'DIM state_branches'[Branch] ), [Total Sales] )
+
+     - Cumulative Total Sales = CALCULATE ( [Total Sales],  TOPN ( [Sales Ranking], ALL ( 'DIM state_branches'[Branch] ), [Total Sales] ))
+
+     - % Sales Performance = [Cumulative Total Sales]    / CALCULATE ( [Total Sales], ALL ( 'DIM state_branches'[Branch] ) )
+
+2. **Time Intelligence:**
+    - DIM_Calendar = CALENDARAUTO() 
   
 ![img_6](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/6.png)
  
