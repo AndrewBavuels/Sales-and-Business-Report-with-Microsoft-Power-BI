@@ -45,8 +45,8 @@ Data extraction, source consolidation, cleaning, and transformation.
 ### Extract
 1. Open Power BI Desktop.
 2. Select "Get Data" and choose "Excel".
-3. Locate and select "Dunder Mifflin Paper Company.xlsx".
-4. Choose the table format sheets (for this case, "Sales", "SKU" and "State_Branches").
+3. Locate and select "sales.xlsx".
+4. Choose the table format sheets (for this case, "FACT_Sales", "DIM_SKU" and "DIM State_Branches").
 
 ![img_1](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/1.png)
 
@@ -73,10 +73,11 @@ Data extraction, source consolidation, cleaning, and transformation.
 1. Apply changes and close Power Query Editor.
 2. Load transformed data into the Power BI data model.
 3. Establish relationships between tables if multiple tables are used.
-4. Create visualizations:
-   - Bar charts showing sales by branch.
-   - Line charts for monthly sales trends.
-   - Tables displaying profit margins.
+4. Create Measures for the columns previously marked in the red rectangle:
+   - Quantity.
+   - Sales.
+   - COGS.
+   - Profit.
 
 
 
