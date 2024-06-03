@@ -113,9 +113,6 @@ It is similar to Excel formulas but is specifically designed for use in Power BI
   
 ![img_6](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/6.png)
  
-4. **Financial Reporting:** Calculate margins, ROI, and other financial metrics. **DAX Functions:** DIVIDE, CALCULATE, FILTER, ALL, RELATEDTABLE
-
-5. **Product Performance:** Evaluate sales by category and profitability. **DAX Functions:** CALCULATE, FILTER, RELATEDTABLE, TOPN, RANKX
 
 ### IV: Reporting
 Data visualization, reports, dashboards, storytelling.
@@ -137,7 +134,10 @@ Data visualization, reports, dashboards, storytelling.
 5. **Why are their operational costs higher?**
    Maybe it has to do with some products that are complex to sell.
 
+![General_Overview](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/General%20Overview.png)
 
+![L&P_byProduct](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/L%26P%20by%20Product.png)
+ 
 
 ## **2. Technology stack 💻**
 
