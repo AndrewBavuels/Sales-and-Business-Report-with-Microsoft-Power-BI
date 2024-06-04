@@ -25,8 +25,6 @@ The goal is to demonstrate how Python and Power BI merge when exploring the comp
 
 - Practical uses of DAX (Data Analysis Expressions) in Microsoft Power to create business metrics and KPIs, enabling data-driven decision-making.
 
-
-
 ### Functional architecture design:
 
 ![DM_pipeline](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/architecture/Dunder%20Mifflin%20data%20pipeline.png)
@@ -79,8 +77,6 @@ Data extraction, source consolidation, cleaning, and transformation.
    - COGS.
    - Profit.
 
-
-
 ![img_5.2](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/5.2.png)
 
 The ETL execution will depend on the specific needs of your data analysis. Mostly, those key moments happen when:
@@ -97,7 +93,6 @@ Relationships, indicators, optimization.
 DAX is a formula language that allows users to create custom calculations & expressions in Power BI.
 
 It is similar to Excel formulas but is specifically designed for use in Power BI & other Microsoft BI tools. **Some of them used were:**
-
 
 1. **Sales Measures:**
      - Total Sales = SUM ( FACT_Sales[Sales] )
@@ -155,10 +150,7 @@ Based on the insights derived from the visualized reports and the storytelling p
    
 By executing these data-driven actions, we can systematically address the root causes of the problem and drive the organization toward sustainable profitability.
 
-![L&P_byProduct](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/L%26P%20by%20Product.png)
-
-
- 
+![L&P_byProduct](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/L%26P%20by%20Product.png) 
 
 ## **2. Technology stack 💻**
 
@@ -170,14 +162,6 @@ By executing these data-driven actions, we can systematically address the root c
 - [DAX Formatter](https://www.daxformatter.com/): For formatting Data Analysis Expressions (DAX) queries.
 
 ![DAX_Formatter](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/DAX%20Formatter.png)
-
-
-
-
-
-
-
-
 
 ###  **Contact info📧**
 For further information, reach me at andres.buelvas.diago.01@gmail.com
