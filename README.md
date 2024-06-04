@@ -172,5 +172,31 @@ By executing these data-driven actions, we can systematically address the root c
 
 ![DAX_Formatter](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/DAX%20Formatter.png)
 
+## **4. Demo 📊📈📉**
+
+To show what it looks like in action, [click here](https://public.tableau.com/app/profile/andres.buelvas.diago/viz/Final_Project_m3_main_Relational_Model/1_1_IssuesDashboard?publish=yes).
+> **_Note:_** The demo is also contained in the main.txt file from the Dashboard folder.
+
+## **5. Folder structure 📁**
+```
+└── project
+    ├── _wip_
+    ├── .gitignore
+    ├── notebooks
+    │   └── main.ipynb
+    ├── images
+    │   ├── pipeline.png
+    │   ├── Issues_Dashboard.png
+    │   └── Spotiliebers_Dashboard.png
+    ├── data
+    │   ├── raw
+    │   │   └── spoti_reviews.csv
+    │   └── processed
+    │       └── reviews_report.csv
+    ├── dashboard
+    │   └── main.txt
+    └── README.md    
+```
+
 ###  **Contact info📧**
 For further information, reach me at andres.buelvas.diago.01@gmail.com
