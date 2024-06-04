@@ -141,6 +141,9 @@ To determine which reports I wanted to visualize and how to develop their storyt
 ![General_Overview](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/General%20Overview.png)
 
 ![L&P_byProduct](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/L%26P%20by%20Product.png)
+
+![Demo](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/demo/Demo.gif)
+
  
 
 ## **2. Technology stack 💻**
