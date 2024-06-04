@@ -172,29 +172,29 @@ By executing these data-driven actions, we can systematically address the root c
 
 ![DAX_Formatter](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/DAX%20Formatter.png)
 
-## **4. Demo 📊📈📉**
+## **3. Report Demo 📊📈📉**
 
-To show what it looks like in action, [click here](https://public.tableau.com/app/profile/andres.buelvas.diago/viz/Final_Project_m3_main_Relational_Model/1_1_IssuesDashboard?publish=yes).
-> **_Note:_** The demo is also contained in the main.txt file from the Dashboard folder.
+To show what it looks like in action, [click here](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/report/Dunder%20Mifflin%20Sales%20Report.pbix).
+> **_Note:_** The demo is also contained in the **report** folder.
 
-## **5. Folder structure 📁**
+## **4. Folder structure 📁**
 ```
 └── project
-    ├── _wip_
-    ├── .gitignore
-    ├── notebooks
-    │   └── main.ipynb
-    ├── images
-    │   ├── pipeline.png
-    │   ├── Issues_Dashboard.png
-    │   └── Spotiliebers_Dashboard.png
+    ├── architecture
+    │   └── Dunder Mifflin data pipeline.png
     ├── data
     │   ├── raw
-    │   │   └── spoti_reviews.csv
-    │   └── processed
-    │       └── reviews_report.csv
-    ├── dashboard
-    │   └── main.txt
+    │   │   ├── DIM sku.xlsx
+    │   │   ├── DIM state_branches.xlsx
+    │   │   └── FACT sales.xlsx
+    │   ├── processed
+    │   │   └── FACT sales.xlsx
+    │   └── ready
+    │       └── sales.xlsx
+    ├── notebooks
+    │   └── main.ipynb
+    ├── report
+    │   └── Dunder Mifflin Sales Report.pbix
     └── README.md    
 ```
 
