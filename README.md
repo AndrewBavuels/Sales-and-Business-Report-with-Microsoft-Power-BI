@@ -117,9 +117,11 @@ It is similar to Excel formulas but is specifically designed for use in Power BI
 ### IV: Reporting
 Data visualization, reports, dashboards, storytelling.
 
-### The 5 Whys
+To determine which reports I wanted to visualize and how to develop their storytelling, I referred to the section in Eric Ries' book "The Lean Startup" that discusses the Toyota method of the 5 Whys, which helps to identify the root cause of a detected problem. In this case, I wanted to understand why "higher sales did not translate into higher profits".
 
 ![Five_Whys](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/Five_Whys.png)
+
+### The 5 Whys
 
 1. **Why are sales and profit not correlated?**
    Because more sales do not necessarily mean more profit.
