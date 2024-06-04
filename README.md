@@ -169,11 +169,10 @@ To determine which reports I wanted to visualize and how to develop their storyt
 
 To determine which reports I wanted to visualize and how to develop their storytelling, I referred to the section in Eric Ries' book "The Lean Startup" that discusses the Toyota method of the 5 Whys, which helps to identify the root cause of a detected problem. In this case, I wanted to understand why "higher sales did not translate into higher profits."
 
-![Demo](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/demo/Demo.gif)
+
 
 ## **6. Data-Driven Actions 💡**
 
-## Data-Driven Actions
 
 Based on the insights derived from the visualized reports and the storytelling process, several actionable steps can be taken to address the identified issue of higher sales not translating into higher profits:
 
