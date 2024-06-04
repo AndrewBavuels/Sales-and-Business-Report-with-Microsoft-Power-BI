@@ -121,7 +121,7 @@ To determine which reports I wanted to visualize and how to develop their storyt
 
 ![Five_Whys](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/Five_Whys.png)
 
-### The 5 Whys
+### The 5 Whys for Storytelling development
 
 1. **Why are sales and profit not correlated?**
    Because more sales do not necessarily mean more profit.
@@ -140,6 +140,8 @@ To determine which reports I wanted to visualize and how to develop their storyt
 
 ![General_Overview](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/General%20Overview.png)
 
+
+
 ![L&P_byProduct](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/L%26P%20by%20Product.png)
 
 ![Demo](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/demo/Demo.gif)
@@ -156,3 +158,54 @@ To determine which reports I wanted to visualize and how to develop their storyt
 - [DAX Formatter](https://www.daxformatter.com/): For formatting Data Analysis Expressions (DAX) queries.
 
 ![DAX_Formatter](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/DAX%20Formatter.png)
+
+## **6. Next steps 💡**
+
+- Develop an action plan to address problem areas identified in the 80-20
+- Establish a multidisciplinary team with clearly defined roles to address the problem areas identified in the 80-20
+***
+- Automate the connection with new data in the reporting system
+- Integrate other data formats such as MySQL, PostgreSQL, JSON, XML
+
+To determine which reports I wanted to visualize and how to develop their storytelling, I referred to the section in Eric Ries' book "The Lean Startup" that discusses the Toyota method of the 5 Whys, which helps to identify the root cause of a detected problem. In this case, I wanted to understand why "higher sales did not translate into higher profits."
+
+![Demo](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/demo/Demo.gif)
+
+## **6. Data-Driven Actions 💡**
+
+## Data-Driven Actions
+
+Based on the insights derived from the visualized reports and the storytelling process, several actionable steps can be taken to address the identified issue of higher sales not translating into higher profits:
+
+1. **Analyze Cost Structure:**
+   - **Action:** Conduct a detailed analysis of the cost structure to identify areas where expenses are disproportionately high.
+   - **Purpose:** To pinpoint specific cost drivers that may be eroding profit margins despite increased sales.
+
+2. **Optimize Pricing Strategy:**
+   - **Action:** Review and adjust the pricing strategy to ensure that prices reflect the value provided and cover costs adequately.
+   - **Purpose:** To enhance profitability by aligning prices with market demand and cost considerations.
+
+3. **Improve Product Mix:**
+   - **Action:** Evaluate the product mix to determine which products have higher profit margins and focus on promoting and selling those.
+   - **Purpose:** To increase overall profitability by prioritizing high-margin products.
+
+4. **Enhance Sales Training:**
+   - **Action:** Implement targeted sales training programs to improve the effectiveness of the sales team.
+   - **Purpose:** To ensure that the sales team can effectively communicate value and close deals that contribute positively to profit margins.
+
+5. **Monitor Customer Acquisition Costs:**
+   - **Action:** Track and analyze customer acquisition costs (CAC) to ensure that they are sustainable relative to the lifetime value (LTV) of customers.
+   - **Purpose:** To maintain a healthy balance between the costs of acquiring new customers and the revenue they generate over time.
+
+6. **Implement Efficient Inventory Management:**
+   - **Action:** Adopt advanced inventory management techniques to reduce holding costs and minimize waste.
+   - **Purpose:** To lower operational costs and improve cash flow, thereby enhancing profitability.
+
+By executing these data-driven actions, we can systematically address the root causes of the problem and drive the organization towards sustainable profitability.
+
+![Demo](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/demo/Demo.gif)
+
+
+
+###  **Contact info📧**
+For further information, reach me at andrew.bavuels@gmail.com
