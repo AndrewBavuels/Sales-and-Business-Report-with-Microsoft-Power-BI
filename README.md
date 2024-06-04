@@ -202,7 +202,7 @@ Based on the insights derived from the visualized reports and the storytelling p
 
 By executing these data-driven actions, we can systematically address the root causes of the problem and drive the organization towards sustainable profitability.
 
-![Demo](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/demo/Demo.gif)
+
 
 
 
